@@ -6,11 +6,11 @@ Instructions:
 'n' - Go north \
 'e' - Go east \
 's - Go south \
-'w' - Go west \
+'w' - Go west 
  
 # Commands
 'hello' - Displays gold needed to win \
 'gold' - Gold currently owned \
 'pickup' - Attempt to pick up gold on current space \
 'look' - Look around you \
-'quit - Quits game \
+'quit - Quits game 

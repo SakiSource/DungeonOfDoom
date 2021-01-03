@@ -1,7 +1,7 @@
 # DungeonOfDoom
 Simple game created for a coursework! \
 Objective: Collect gold and escape! \
-Instructions: \
+Instructions:
 ## Movement
 'n' - Go north \
 'e' - Go east \

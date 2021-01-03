@@ -8,7 +8,7 @@ Instructions:
 's - Go south \
 'w' - Go west 
  
-# Commands
+## Commands
 'hello' - Displays gold needed to win \
 'gold' - Gold currently owned \
 'pickup' - Attempt to pick up gold on current space \
